@@ -1,0 +1,9 @@
+Distance between LEDs (mid2mid) ~ 1.6cm (60 LEDs/m)
+Width of LED strip = 1cm
+
+Planned dimensions of LED matrix:
+
+Distance between LED strips (mid2mid) = 4.5 cm (3.5 cm end2end)
+23 LEDs per Strip x 1.6 cm + 2*2cm border ~ 41 cm
+300 available LEDs / 23 LEDs per Strip = 13 Strips
+(13 Strips + 2 Borders) x 4.5 cm ~ 68 cm
